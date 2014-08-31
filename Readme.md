@@ -60,6 +60,8 @@
 - 动词 + 得 + 副词，例如：走得很快
  - 关于参考文献
 - 格式：主要责任者.书名〔文献类型标识 ] .其他责任者.版本.出版地：出版者，出版年.文献数量.丛编项.附注项.文献标准编号。例子：1 刘少奇.论共产党员的修养.修订 2 版.北京：人民出版社，1962.76 页.
+ - 其它
+- 统一一律用树结点，而不是树节点。 
  - ..
  - 此外，更多C++ 部分可参考Google C++ Style Guide，中文版见：http://zh-google-styleguide.readthedocs.org/en/latest/contents/ ；
 
@@ -70,31 +72,37 @@
  - 2014年3月，通读全部文章，修正明显错误；
  - 2014年4月，精简篇幅，调整目录，Contributors 贡献其它语言代码，并翻译部分文章；
  - 2014年5月，逐章逐节逐行逐字优化文字描述，测试重写优化每一段每一行每一个代码，确定代码基本风格；
- - 2014年6月，第一周，压缩篇幅，宁愿量少，但求质精；第二周，全面 review；第三周，全部文章从github转到word上，在word 上做出最后彻底的改进，若未发现紧要bug或pull request，github将暂不再改动；第四周，最后一周review；
+ - 2014年6月，第一周，压缩篇幅，宁愿量少，但求质精；第二周，全面 review；第三周，全部文章从github转到word上，在word 上做出最后彻底的改进，若未发现bug或pull request，github将暂不再改动；第四周，最后一周review；
 - 实际情况：6月30日，稿件延期，理由：目前版本不是所能做到的最好的版本。
  - 2014年7月，出版社重绘全部图片，编辑加工，复审，三审；
 - 实际情况：7月1日交付初稿，上半个月再交一版本，择期交定稿 
  - 2014年8月，发稿审批，排版校对；
+- 实际情况：稿件预计最快8月底交付出版社。
  - 2014年9月，出胶片，印刷，装订成书；
- - 2014年10月，第一版上市。
- - 2014年11月..
+ - 2014年10月..
+ - 2014年11月...
 
 
 ## Contributors
 感谢所有贡献的朋友：https://github.com/julycoding/The-Art-Of-Programming-by-July/graphs/contributors ，并非常期待你的加入，thanks。
 
-同时，欢迎所有已经贡献过本github的87位朋友加入程序员编程艺术室QQ群：149638123，验证信息为你贡献本项目时用的github昵称。
+同时，欢迎所有已经贡献过本github的95位朋友加入程序员编程艺术室QQ群：149638123，验证信息为你贡献本项目时用的github昵称。
 
-孤军奋战的时代早已远去，我们只有团结起来，才能帮助到更多更无数的人。[@研究者July](http://weibo.com/julyweibo)，始于二零一三年十二月十四日。
+孤军奋战的时代早已远去，我们只有团结起来，才能帮助到更多人。[@研究者July](http://weibo.com/julyweibo)，始于二零一三年十二月十四日。
 
 ## Copyright
 本电子书的版权属于July 本人，严禁其他任何人出版，严禁用于任何商业用途，违者必究法律责任。July、二零一四年五月十一日晚。
 
 ## July' PDF
-* 《支持向量机通俗导论（理解SVM的三层境界）》Latex排版精细版：http://vdisk.weibo.com/s/zrFL6OXKgnlcp ；Latex版本②：https://raw.githubusercontent.com/liuzheng712/Intro2SVM/master/Intro2SVM.pdf 。
-* 原《程序员编程艺术第一~三十七章PDF》：http://download.csdn.net/detail/v_july_v/6694053 ，本github上的文章已经对此PDF进行了极大的优化和改进。
-* 《微软面试100题系列之PDF》：http://download.csdn.net/detail/v_july_v/4583815
-* 《十五个经典算法研究与总结之PDF》：http://download.csdn.net/detail/v_july_v/4478027
-* 编程艺术HTML网页版：http://taop.marchtea.com/
-* 2014年4月29日《武汉华科大第5次面试&算法讲座PPT》：http://pan.baidu.com/s/1hqh1E9e ；
-* 持续更新..
+- 《支持向量机通俗导论（理解SVM的三层境界）》Latex排版精细版：http://vdisk.weibo.com/s/zrFL6OXKgnlcp ；Latex版本②：https://raw.githubusercontent.com/liuzheng712/Intro2SVM/master/Intro2SVM.pdf 。
+- 原《程序员编程艺术第一~三十七章PDF》：http://download.csdn.net/detail/v_july_v/6694053 ，本github上的文章已经对此PDF进行了极大的优化和改进。
+- 《微软面试100题系列之PDF》：http://download.csdn.net/detail/v_july_v/4583815
+- 《十五个经典算法研究与总结之PDF》：http://download.csdn.net/detail/v_july_v/4478027
+- 编程艺术HTML网页版：http://taop.marchtea.com/
+- 2014年4月29日《武汉华科大第5次面试&算法讲座PPT》：http://pan.baidu.com/s/1hqh1E9e ；
+- 新书初稿的4个PDF
+ - B树的PDF：http://yun.baidu.com/s/1jGwup5k ；
+ - 海量数据处理的PDF：http://yun.baidu.com/s/1dDreICL ；
+ - 支持向量机的PDF：http://yun.baidu.com/s/1ntwof7j ；
+ - KMP的PDF：http://yun.baidu.com/s/1eQel3PK ；
+- 持续更新..
